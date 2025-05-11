@@ -1,0 +1,1 @@
+# rekognition-text-detection-api
