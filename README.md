@@ -17,4 +17,4 @@ This project demonstrates how to build a serverless API using AWS Lambda, API Ga
 4. Enable CORS and deploy to a stage (e.g., `dev`).
 5. Test with a base64-encoded image via Postman or a basic HTML form.
 
-## 📁 Folder Structure
+
